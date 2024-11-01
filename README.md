@@ -1,1 +1,0 @@
-# Criando-Uma-Wiki-de-Reposit-rios-do-GitHub-Com-React
